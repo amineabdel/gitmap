@@ -1,0 +1,3 @@
+cd naar je gitmap
+git 
+npm start
